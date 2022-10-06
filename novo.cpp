@@ -6,6 +6,6 @@ private:
 public:
   void printA() {
     std::cout << A << std::endl;
-    std::cout << "print da funcao asdasasdasA" << std::endl;
+    std::cout << "print da funcao A" << std::endl;
   }
 };
